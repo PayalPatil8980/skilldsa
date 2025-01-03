@@ -2,7 +2,7 @@
 
 void selection(int a[],int n){
     int i,j,small;
-    for(i=0;i<n-1;i++){
+    for(i=0;i<n;i++){
         //small=i;
         for(j=i+1;j<n;j++)
             if(a[j]<a[i]){
