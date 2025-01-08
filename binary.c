@@ -23,7 +23,7 @@ int bsearch(int arr[],int n,int val){
 }
 
 int main(){
-    int val,arr[5],i;
+    int val,arr[8],i;
     int n=sizeof(arr)/sizeof(arr[0]);
     for(i=0;i<n;i++){
         printf("Enter the element: ");

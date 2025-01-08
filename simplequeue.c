@@ -45,7 +45,6 @@ int main(){
     
     equeue(a,n,12);
     equeue(a,n,15);
-    //equeue(a,n,16);
     display(a);
     dequeue(a,n);
     display(a);

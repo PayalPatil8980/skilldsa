@@ -37,3 +37,4 @@ int main(){
     lsearch(a,n,val);
    
 }
+
