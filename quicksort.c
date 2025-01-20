@@ -37,7 +37,7 @@ int main(){
     for(int i=0;i<6;i++){
         printf("%d\t",a[i]);
     }
-    printf("\n");
+    printf("\n"); 
     quicksort(a,0,5);
     for(int i=0;i<6;i++){
         printf("%d\t",a[i]);
